@@ -1,6 +1,6 @@
 # My portfolio
 
-This is my portfolio you cna see my personal details.
+This is my portfolio you can see my personal details.
 For now, I know: 
 
 1. JavaScript
